@@ -11,9 +11,43 @@
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descrição": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Morumbi",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
       "nome": "Uruguai",
       "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    }
+  },
+  {
+    "descrição": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Serra Dourada",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Itália",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
+    },
+    "visitante": {
+      "nome": "Bélgica",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/be.png"
     }
   }
 ]
